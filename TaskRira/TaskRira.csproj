@@ -24,12 +24,6 @@
     <Folder Include="Application\Commands\" />
     <Folder Include="Application\Handlers\" />
     <Folder Include="Application\Queries\" />
-    <Folder Include="Domain\Entities\" />
-    <Folder Include="Domain\Repositories\" />
-    <Folder Include="Infrastructure\Repositories\" />
-    <Folder Include="Infrastructure\Persistence\" />
-    <Folder Include="Presentation\Servies\" />
-    <Folder Include="Presentation\Protos\" />
   </ItemGroup>
 
 </Project>
