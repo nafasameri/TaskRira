@@ -1,0 +1,6 @@
+@TaskRira_HostAddress = http://localhost:5030
+
+GET {{TaskRira_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
